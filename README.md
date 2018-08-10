@@ -1,5 +1,5 @@
 # A project from the Bloc Designer Track
 
-The To-Do App is a simple application written in HTML, CSS, JavaScript. The to-do app allows users to create a list, check off items on the list and then delete items.
+The To-Do App is a simple application written in HTML, CSS, JavaScript. The to-do app allows users to create a list, check off items on the list and then delete items. 
 
-![Screenshot](https://github.com/saamato/to-do-app/to-do-app.png)
+![](https://raw.githubusercontent.com/saamato/to-do-app/master/to-do-app.png)
